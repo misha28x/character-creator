@@ -24,3 +24,7 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+.buttonRow {
+  white-space: nowrap;
+}

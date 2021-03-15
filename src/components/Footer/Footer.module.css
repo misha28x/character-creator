@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+.footer a {
+  color: white;
+}
+
+.footer a:hover {
+  color: hsl(290, 100%, 50%)
+}
